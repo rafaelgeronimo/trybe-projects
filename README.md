@@ -1,8 +1,8 @@
 ⚠ Repositório em desenvolvimento ⚠
 
 Olá! Seja bem vindo(a) ao repositório Trybe Projects!
-Aqui estão reunidos todos os projetos que desenvolvi durante minha jornada pelo curso da [Trybe](https://www.betrybe.com/)
-Organizado em ordem cronológica, os projetos listados abaixo formam uma linha do tempo do que foi aprendido com o currículo proposto pela Trybe.
+Aqui estão reunidos todos os projetos que desenvolvi durante minha jornada pelo curso da [Trybe](https://www.betrybe.com/).
+Organizado em ordem cronológica, os projetos listados abaixo formam uma linha do tempo do que foi aprendido com o currículo proposto pela Trybe ao longo dos módulos.
 
 |Project Name|Module|Repository|Technologies|
 |---|---|---|---|
