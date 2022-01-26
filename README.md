@@ -36,5 +36,11 @@ Organizado em ordem cronológica, os projetos listados abaixo formam uma linha d
 |Stranger Things Frontend|Deployment|https://github.com/tryber/sd-010-a-stranger-things-frontend/pull/31|Heroku|
 |Stranger Things Backend|Deployment|https://github.com/tryber/sd-010-a-stranger-things-backend/pull/26|Heroku|
 |Blogs API|Backend|[rafaelgeronimo/trybe-project-blogs-api](https://github.com/rafaelgeronimo/trybe-project-blogs-api)|NodeJS, SOLID e ORM|
-|Webchat|Full Stack|---|---|
+|Webchat|Full Stack|https://github.com/tryber/sd-010-a-project-webchat/pull/14|NodeJS|
+|Delivery App|Full Stack|https://github.com/tryber/sd-010-a-project-delivery-app/pull/482|React, NodeJS|
+|Job Insights|CS|https://github.com/tryber/sd-010-a-project-job-insights/pull/32|Python|
+|Inventory Report|CS|https://github.com/tryber/sd-010-a-inventory-report/pull/59|Python|
+|Tech News|CS|https://github.com/tryber/sd-010-a-tech-news/pull/4|Python|
+|Algorithms|CS|https://github.com/tryber/sd-010-a-project-algorithms/pull/2|Python|
+
 
